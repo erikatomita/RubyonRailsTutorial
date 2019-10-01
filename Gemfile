@@ -22,6 +22,7 @@ group :development do
   gem 'spring-watcher-listen', '2.0.1'
 end
 
+<<<<<<< HEAD
 group :test do
   gem 'rails-controller-testing', '1.0.2'
   gem 'minitest',                 '5.10.3'
@@ -31,9 +32,15 @@ group :test do
 end
 
 
+=======
+>>>>>>> origin/master
 group :production do
   gem 'pg', '0.20.0'
 end
 
 # Windows環境ではtzinfo-dataというgemを含める必要があります
+<<<<<<< HEAD
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+=======
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+>>>>>>> origin/master
