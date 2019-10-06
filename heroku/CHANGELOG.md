@@ -3,6 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<<<<<<< HEAD
 ## [7.33.1](https://github.com/heroku/cli/compare/v7.33.0...v7.33.1) (2019-10-03)
 
 
@@ -36,6 +37,8 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+=======
+>>>>>>> origin/master
 ## [7.31.2](https://github.com/heroku/cli/compare/v7.31.1...v7.31.2) (2019-09-30)
 
 

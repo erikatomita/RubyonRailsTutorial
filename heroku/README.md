@@ -64,14 +64,22 @@ For other issues, [submit a support ticket](https://help.heroku.com/).
 * [`heroku notifications`](docs/notifications.md) - display notifications
 * [`heroku orgs`](docs/orgs.md) - manage organizations
 * [`heroku pg`](docs/pg.md) - manage postgresql databases
+<<<<<<< HEAD
 * [`heroku pipelines`](docs/pipelines.md) - manage pipelines
+=======
+* [`heroku pipelines`](docs/pipelines.md) - groups of apps that share the same codebase
+>>>>>>> origin/master
 * [`heroku plugins`](docs/plugins.md) - list installed plugins
 * [`heroku ps`](docs/ps.md) - Client tools for Heroku Exec
 * [`heroku psql`](docs/psql.md) - open a psql shell to the database
 * [`heroku redis`](docs/redis.md) - manage heroku redis instances
 * [`heroku regions`](docs/regions.md) - list available regions for deployment
 * [`heroku releases`](docs/releases.md) - display the releases for an app
+<<<<<<< HEAD
 * [`heroku reviewapps`](docs/reviewapps.md) - manage reviewapps in pipelines
+=======
+* [`heroku reviewapps`](docs/reviewapps.md) - disposable apps built on GitHub pull requests
+>>>>>>> origin/master
 * [`heroku run`](docs/run.md) - run a one-off process inside a Heroku dyno
 * [`heroku sessions`](docs/sessions.md) - OAuth sessions
 * [`heroku spaces`](docs/spaces.md) - manage heroku private spaces

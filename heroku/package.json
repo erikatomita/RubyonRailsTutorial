@@ -1,7 +1,11 @@
 {
   "name": "heroku",
   "description": "CLI to interact with Heroku",
+<<<<<<< HEAD
   "version": "7.33.1",
+=======
+  "version": "7.31.2",
+>>>>>>> origin/master
   "author": "Jeff Dickey @jdxcode",
   "bin": {
     "heroku": "./bin/run"
@@ -17,7 +21,11 @@
     "@heroku-cli/plugin-buildpacks": "^7.27.0",
     "@heroku-cli/plugin-certs": "^7.24.0",
     "@heroku-cli/plugin-certs-v5": "^7.28.0",
+<<<<<<< HEAD
     "@heroku-cli/plugin-ci": "^7.33.0",
+=======
+    "@heroku-cli/plugin-ci": "^7.24.3",
+>>>>>>> origin/master
     "@heroku-cli/plugin-ci-v5": "^7.24.0",
     "@heroku-cli/plugin-config": "^7.31.0",
     "@heroku-cli/plugin-container-registry-v5": "^7.28.0",
@@ -26,11 +34,21 @@
     "@heroku-cli/plugin-oauth-v5": "^7.24.0",
     "@heroku-cli/plugin-orgs-v5": "^7.26.0",
     "@heroku-cli/plugin-pg-v5": "^7.31.0",
+<<<<<<< HEAD
     "@heroku-cli/plugin-pipelines": "^7.33.0",
     "@heroku-cli/plugin-ps": "^7.30.0",
     "@heroku-cli/plugin-ps-exec": "2.3.6",
     "@heroku-cli/plugin-redis-v5": "^7.25.0",
     "@heroku-cli/plugin-run-v5": "7.24.0",
+=======
+    "@heroku-cli/plugin-pipelines": "^7.31.1",
+    "@heroku-cli/plugin-pipelines-v5": "^7.31.0",
+    "@heroku-cli/plugin-ps": "^7.30.0",
+    "@heroku-cli/plugin-ps-exec": "2.3.6",
+    "@heroku-cli/plugin-redis-v5": "^7.25.0",
+    "@heroku-cli/plugin-run": "^7.30.0",
+    "@heroku-cli/plugin-run-v5": "^7.24.0",
+>>>>>>> origin/master
     "@heroku-cli/plugin-spaces": "^7.27.0",
     "@heroku-cli/plugin-status": "^7.24.0",
     "@heroku-cli/plugin-webhooks": "^7.29.0",
@@ -122,9 +140,17 @@
       "@heroku-cli/plugin-orgs-v5",
       "@heroku-cli/plugin-pg-v5",
       "@heroku-cli/plugin-pipelines",
+<<<<<<< HEAD
       "@heroku-cli/plugin-ps",
       "@heroku-cli/plugin-ps-exec",
       "@heroku-cli/plugin-redis-v5",
+=======
+      "@heroku-cli/plugin-pipelines-v5",
+      "@heroku-cli/plugin-ps",
+      "@heroku-cli/plugin-ps-exec",
+      "@heroku-cli/plugin-redis-v5",
+      "@heroku-cli/plugin-run",
+>>>>>>> origin/master
       "@heroku-cli/plugin-run-v5",
       "@heroku-cli/plugin-spaces",
       "@heroku-cli/plugin-status",
